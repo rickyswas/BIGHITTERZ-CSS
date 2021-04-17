@@ -1,0 +1,35 @@
+header{
+	background-color: #ffe8e8;
+}
+ul{
+	list-style: none;
+	color :black;
+	padding: 5px;
+}
+nav{
+	float: right;
+}
+li{
+	display: inline;
+	margin: 100px;
+}
+li a{
+	
+	text-align: : right;
+	color: solid purple;
+	
+}
+li a:hover{
+	color:red;
+	text-decoration: none;
+
+}
+img{
+	border-radius: 10%;
+}
+footer{
+	text-align: center;
+}
+p{
+	float: center;
+}
